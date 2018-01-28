@@ -25,7 +25,7 @@ ship_col = random_col(board)
 #print ship_col
 
 # Everything from here on should go in your for loop!
-# Be sure to indent four spaces!
+# Looping the game four turns - the game works from here
 for turn in range(4):
   
   print "Turn",turn+1 
